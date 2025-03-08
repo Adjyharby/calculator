@@ -11,6 +11,10 @@
     "preview": {
       "distribution": "internal"
     },
+    "Adjourner": {
+      "android": {
+        "buildType": "apk"
+      }},
     "production": {
       "autoIncrement": true
     }
